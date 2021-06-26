@@ -1,0 +1,15 @@
+Version 1.1.2
+- Updating Home page icons
+- Adding Blog page minor release 
+- First blog updated.
+
+Version 1.0.2
+- Updating Social links 
+- Icons update 
+- setup responsive views 
+
+Version 1.0.1
+- updating text formating 
+
+Version 1.0.0
+- initial relase 
